@@ -1,1 +1,1 @@
-javac -d bin src\*.java src\is\hi\joo31\hbv202\ass3\backend\*.java src\is\hi\joo31\hbv202\ass3\frontend\*.java
+javac -d bin *.java src\is\hi\joo31\hbv202\ass3\backend\*.java src\is\hi\joo31\hbv202\ass3\frontend\*.java
